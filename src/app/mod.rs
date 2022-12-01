@@ -8,7 +8,7 @@ pub fn App(cx: Scope) -> Element {
     view! {
         cx,
         <div>
-            <h1>"Hi from your Leptos WASM!"</h1>
+            <h1>"Ashos Leptos WASM!!!"</h1>
         </div>
     }
 }
